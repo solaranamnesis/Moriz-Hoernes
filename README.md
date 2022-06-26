@@ -7,14 +7,14 @@ Attempt at translations from the original German to English, I welcome all pull 
 
 ## Über den Meteorsteinfall bei Ohaba im Blasendorfer Bezirke in Siebenbürgen, in der Nacht zwischen dem 10. Und 11. October 1857.
 
-English - Plain Text
-English - PDF
-German - Plain Text
-German - PDF
+English - Plain Text  
+English - PDF  
+German - Plain Text  
+German - PDF  
 
 ## Über den Meteorsteinfall bei Kaba, südwestlich von Debreczin, am 15. April 1857.
 
-English - Plain Text
-English - PDF
-German - Plain Text
-German - PDF
+English - Plain Text  
+English - PDF  
+German - Plain Text  
+German - PDF  
